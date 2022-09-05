@@ -1,2 +1,2 @@
-#!/bin/bih
-egrep ^[[:alpha:]] /etc/ssh/sshd_config
+#!/bin/bash
+tr "Ac" "Ze"
